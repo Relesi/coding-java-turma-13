@@ -1,4 +1,4 @@
-package com.coding.intr.codingjava13.exercicios;
+package com.coding.intr.codingjava13.exercicios.sala;
 
 /*
         1-Escreva um programa Java para imprimir o resultado das seguintes operações.

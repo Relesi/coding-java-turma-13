@@ -1,4 +1,4 @@
-package com.coding.intr.codingjava13.exercicios;
+package com.coding.intr.codingjava13.exercicios.sala;
 
 /*
             Escreva um programa Java para converter um número binário em um número decimal.

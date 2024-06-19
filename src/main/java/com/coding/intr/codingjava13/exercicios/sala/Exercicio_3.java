@@ -1,4 +1,4 @@
-package com.coding.intr.codingjava13.exercicios;
+package com.coding.intr.codingjava13.exercicios.sala;
 
 /*
 
